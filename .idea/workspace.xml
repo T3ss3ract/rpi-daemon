@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be294529-f350-42a4-a3fc-a4601d946c77" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nGlFRKDJexQSsQGkiAuIOL2YEb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be294529-f350-42a4-a3fc-a4601d946c77" name="Default Changelist" comment="" />
+      <created>1611024203453</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611024203453</updated>
+      <workItem from="1611024208508" duration="568000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3518" y="610" key="SettingsEditor" timestamp="1611024534446">
+      <screen x="3440" y="0" width="1080" height="1920" />
+    </state>
+    <state x="3518" y="610" key="SettingsEditor/3440.0.1080.1920/0.0.3440.1440/-3600.432.1920.1080/-1680.390.1680.1050@3440.0.1080.1920" timestamp="1611024534446" />
+    <state x="3886" y="707" key="ftp.server.browser" timestamp="1611024529155">
+      <screen x="3440" y="0" width="1080" height="1920" />
+    </state>
+    <state x="3886" y="707" key="ftp.server.browser/3440.0.1080.1920/0.0.3440.1440/-3600.432.1920.1080/-1680.390.1680.1050@3440.0.1080.1920" timestamp="1611024529155" />
+  </component>
+</project>
