@@ -53,9 +53,9 @@ class NSDaemon:
         # redirect standard file descriptors
         sys.stdout.flush()
         sys.stderr.flush()
-        si = open(self.stdin, "wb+", 0)
-        so = open(self.stdout, "wb+", buffering=0)
-        se = open(self.stderr, "wb+", buffering=0)
+        si = open(self.stdin, "rb+", 0)
+        so = open(self.stdout, "ab+", buffering=0)
+        se = open(self.stderr, "ab+", buffering=0)
         os.dup2(si.fileno(), sys.stdin.fileno())
         os.dup2(so.fileno(), sys.stdout.fileno())
         os.dup2(se.fileno(), sys.stderr.fileno())
