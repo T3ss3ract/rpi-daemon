@@ -230,6 +230,9 @@ def point_calcs_subdevice(request):
     qs = request.path_qs
     return Response(qs)
 
+def insert_to_pointdb(lat1, lng1):
+    return
+
 # ----------------------------------------------------------------------------------------------------
 # an example of a custom run method where you can set your useful python code
 class MyDaemon(Daemon):
